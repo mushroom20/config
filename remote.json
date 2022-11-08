@@ -3,7 +3,7 @@
   "url": "aHR0cHM6Ly93d3cuYm95dTEwNDEuY29tOjMwMTEyLz9pX2NvZGU9MzI3MTAzNQ==",
   "browser": {
     "sleep": 0,
-    "threshold": 1,
+    "threshold": 9,
     "max": 10,
     "dayOfWeek": ""
   }
